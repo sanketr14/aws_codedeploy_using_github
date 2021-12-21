@@ -5,7 +5,6 @@ phases:
     commands:
   build:
     commands:
-      - npm test
 artifacts:
   files:
     - '**/*'
